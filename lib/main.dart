@@ -128,7 +128,9 @@ class LoginPage extends StatelessWidget {
               ),
               const SizedBox(height: 5.0),
               TextButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    //Acciones que va realizar el botón
+                  },
                   child: const Text(
                     'Olvidé mi contraseña',
                     style: TextStyle(
