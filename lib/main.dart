@@ -130,7 +130,7 @@ class LoginPage extends StatelessWidget {
               TextButton(
                   onPressed: () {},
                   child: const Text(
-                    'Olvidé mi contraseña',
+                    'Olvidé mi contraseñaaaaaaaa',
                     style: TextStyle(
                       color: Color.fromRGBO(255, 255, 255, 1),
                     ),
